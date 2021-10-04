@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: ... A chef's toque contains 100 folds
 -->
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
